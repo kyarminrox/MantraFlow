@@ -1,6 +1,6 @@
 🚀 API Development Management App
 
-Reimagine how APIs are built, tested, deployed, and managed.
+**Reimagine how APIs are built, tested, deployed, and managed.**
 
 A developer-first full-cycle API development platform designed for speed, efficiency, and seamless DevOps integration.
 
