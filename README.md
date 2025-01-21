@@ -102,11 +102,13 @@ Live performance tracking & error logging (Prometheus, Grafana, Sentry)
 **📦 Getting Started**
 
 **Install Dependencies**
-''' 
+
+'''
     npm install
 '''
 
 **Run the Project**
+
 '''
   npm run dev
 '''
