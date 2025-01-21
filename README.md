@@ -9,13 +9,18 @@ APIs are the backbone of modern software. Yet, the API development lifecycle is 
 
 This platform reimagines API development, bringing everything into a single, streamlined workflow.
 
+
 ✔ Create APIs in a guided workspace
+
 ![image](https://github.com/user-attachments/assets/74f905c4-dfb2-45a9-b5fa-c96a2c769cf2)
 
+
 ✔ Define, test, and deploy APIs with zero friction
+
 ![image](https://github.com/user-attachments/assets/4b3dbdf6-e70d-48d5-97fb-1f358ecc1493)
 
 ✔ Collaborate with your team seamlessly
+
 ✔ Integrate Git, CI/CD, and monitoring tools natively
 
 🚀 One tool, one workflow. The ultimate API development experience.
