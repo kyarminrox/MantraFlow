@@ -100,33 +100,33 @@ By default, the server will start on
 
 [hhtp://localhost:3000]
 
-👥 Contributing
-We welcome contributions! Follow these steps to get started:
+👥 Contributing <br>
+We welcome contributions! Follow these steps to get started:<br>
 
-🍴 Fork the repository
-🌿 Create a new branch (git checkout -b feature-branch)
-✍️ Make your changes
-✅ Run tests (npm test)
-📦 Commit your changes (git commit -m "Add feature X")
-🔀 Push the branch (git push origin feature-branch)
-📝 Open a Pull Request
-🚀 Let's build the future of API development together!
+🍴 Fork the repository<br>
+🌿 Create a new branch (git checkout -b feature-branch)<br>
+✍️ Make your changes<br>
+✅ Run tests (npm test)<br>
+📦 Commit your changes (git commit -m "Add feature X")<br>
+🔀 Push the branch (git push origin feature-branch)<br>
+📝 Open a Pull Request<br>
+🚀 Let's build the future of API development together!<br>
 
-📜 License
-This project is licensed under the MIT License. See LICENSE for details.
+📜 License<br>
+This project is licensed under the MIT License. See LICENSE for details.<br>
 
-🚀 Future Enhancements
- ✅ GraphQL Auto-Scaffolding
- ✅ Multi-Tenant API Support
- ✅ Event-Driven APIs (Kafka/RabbitMQ)
- ✅ Integrated AI-powered API documentation
-🌍 Join the Community
-📌 GitHub Discussions: Coming Soon...
-📌 Twitter: Follow @sensei4change
+🚀 Future Enhancements<br>
+ ✅ GraphQL Auto-Scaffolding<br>
+ ✅ Multi-Tenant API Support<br>
+ ✅ Event-Driven APIs (Kafka/RabbitMQ)<br>
+ ✅ Integrated AI-powered API documentation<br>
+🌍 Join the Community<br>
+📌 GitHub Discussions: Coming Soon...<br>
+📌 Twitter: Follow @sensei4change<br>
 
-🔥 This is just the beginning. Let’s redefine API development together! 🚀
+🔥 This is just the beginning. Let’s redefine API development together! 🚀<br>
 
-🎖 GitHub Contributors
-@kyarminrox • @rdapilot
+🎖 GitHub Contributors<br>
+@kyarminrox • @rdapilot<br>
 
 MantraFlow
