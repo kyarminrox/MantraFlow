@@ -1,4 +1,4 @@
-**🚀 API Development Management App**
+**MantraFlow: 🚀 API Development Management App**
 
 **Reimagine how APIs are built, tested, deployed, and managed.**
 
