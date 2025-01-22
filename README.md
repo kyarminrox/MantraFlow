@@ -112,7 +112,9 @@ Live performance tracking & error logging (Prometheus, Grafana, Sentry)
 ```
   npm run dev
 ```
+By default, the server will start on 
 
+hhtp://localhost:3000
 
 👥 **Contributing**
 
