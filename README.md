@@ -74,13 +74,6 @@ Postman-like API testing UI inside the app
 Auto-generates Jest unit test templates
 Displays real-time API logs & responses
 
-
-## 🚀**CI/CD & Deployment**
-
-Pre-merge checks: Linting, testing, and build verification
-One-click deploy to staging & production
-Live performance tracking & error logging (Prometheus, Grafana, Sentry)
-
 ---
 
 ## **📦 Getting Started**
