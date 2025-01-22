@@ -81,8 +81,7 @@ Pre-merge checks: Linting, testing, and build verification
 One-click deploy to staging & production
 Live performance tracking & error logging (Prometheus, Grafana, Sentry)
 
-
-## 📂 **Tech Stack**
+---
 
 ## **📦 Getting Started**
 
@@ -100,7 +99,10 @@ By default, the server will start on
 
 [hhtp://localhost:3000]
 
-👥 Contributing <br>
+---
+
+###👥 Contributing <br>
+
 We welcome contributions! Follow these steps to get started:<br>
 
 🍴 Fork the repository<br>
@@ -112,7 +114,9 @@ We welcome contributions! Follow these steps to get started:<br>
 📝 Open a Pull Request<br>
 🚀 Let's build the future of API development together!<br>
 
+---
 📜 License<br>
+
 This project is licensed under the MIT License. See LICENSE for details.<br>
 
 🚀 Future Enhancements<br>
