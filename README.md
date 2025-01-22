@@ -86,21 +86,19 @@ Live performance tracking & error logging (Prometheus, Grafana, Sentry)
 
 ## **📦 Getting Started**
 
-**Install Dependencies**
-
-```
-    npm install
-```
-
-## 🚀 Getting Started  
-
 ### 📥 Install Dependencies  
 ```sh
 npm install
 ```
+
+### Start Development Server
+```sh
+npm run dev
+```
+
 By default, the server will start on 
 
-([hhtp://localhost:3000])
+[hhtp://localhost:3000]
 
 👥 Contributing
 We welcome contributions! Follow these steps to get started:
