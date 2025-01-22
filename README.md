@@ -101,7 +101,7 @@ By default, the server will start on
 
 ---
 
-###👥 Contributing <br>
+### 👥Contributing <br>
 
 We welcome contributions! Follow these steps to get started:<br>
 
@@ -115,7 +115,7 @@ We welcome contributions! Follow these steps to get started:<br>
 🚀 Let's build the future of API development together!<br>
 
 ---
-📜 License<br>
+### 📜 License<br>
 
 This project is licensed under the MIT License. See LICENSE for details.<br>
 
